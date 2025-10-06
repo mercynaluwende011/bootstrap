@@ -12,7 +12,10 @@ It displays upcoming campus activities and allows users to submit new events.
 ## 🏗️ Technologies
 - HTML5  
 - Bootstrap 5.3.3 (CDN)  
-- Bootstrap Icons  
+- Bootstrap Icons
+- Full page
+- <img width="1366" height="768" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/54084629-ae16-4022-845c-b3b75b25e268" />
+   
 <img width="1366" height="768" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/9d16d216-2c92-47bd-893d-1188fd5ecbe8" />
 
 
