@@ -15,8 +15,10 @@ It displays upcoming campus activities and allows users to submit new events.
 - Bootstrap Icons  
 
 ## 🖼️ Screenshots
-- **Full Page:** ![Full Page](screenshot-fullpage.png)  
-- **Modal Open:** ![Modal](screenshot-modal.png)  
+- **Full Page:** ![<img width="1366" height="768" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/dfecb0c7-93a3-411d-a641-94231394113b" />
+](screenshot-fullpage.png)  
+- **Modal Open:** ![<img width="1366" height="768" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/26a86bb5-4b16-4f19-9003-d8d25888b1c6" />
+](screenshot-modal.png)  
   
 Diploma in Information Technology — Uganda Christian University  
 
