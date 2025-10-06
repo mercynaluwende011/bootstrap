@@ -13,12 +13,8 @@ It displays upcoming campus activities and allows users to submit new events.
 - HTML5  
 - Bootstrap 5.3.3 (CDN)  
 - Bootstrap Icons  
+<img width="1366" height="768" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/9d16d216-2c92-47bd-893d-1188fd5ecbe8" />
 
-## 🖼️ Screenshots
-- **Full Page:** ![<img width="1366" height="768" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/dfecb0c7-93a3-411d-a641-94231394113b" />
-](screenshot-fullpage.png)  
-- **Modal Open:** ![<img width="1366" height="768" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/26a86bb5-4b16-4f19-9003-d8d25888b1c6" />
-](screenshot-modal.png)  
-  
+
 Diploma in Information Technology — Uganda Christian University  
 
