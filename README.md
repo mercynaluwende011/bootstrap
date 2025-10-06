@@ -1,19 +1,43 @@
-<img width="1366" height="768" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/243aed9a-2464-42bd-bbf5-f4debb85ec40" /># UCU Campus Events — Bootstrap 5 Lab
+# 🎓 UCU Campus Events — Bootstrap 5 Lab
 
 ## 📘 Overview
-A responsive “Campus Events” web page built using **Bootstrap 5**.  
-It displays upcoming campus activities and allows users to submit new events.
+This project is part of the **Week 4 Bootstrap 5 Beginner Lab** for the Diploma in Information Technology at **Uganda Christian University (UCU)**.  
+It’s a responsive “Campus Events” page that displays upcoming campus activities and allows users to submit new events.
+
+---
 
 ## 🧱 Features
-- Responsive **Navbar**, **Cards**, **Form**, and **Modal**  
-- Form validation using Bootstrap JS  
-- Works on both desktop and mobile  
+- Responsive **Navbar**, **Hero**, **Cards**, **Form**, and **Modal**
+- Built entirely with **Bootstrap 5 (CDN)** — no custom CSS
+- Includes **form validation** and **mobile-friendly design**
 
-## 🏗️ Technologies
+---
+
+## 🏗️ Technologies Used
 - HTML5  
-- Bootstrap 5.3.3 (CDN)  
+- Bootstrap 5.3.3  
 - Bootstrap Icons  
+- JavaScript (for validation)
 
+---
 
+## 🖼️ Screenshots
 
+### 🖥️ Full Page View
+![Full Page Screenshot](screenshot-fullpage.png)
 
+### 💬 Modal Open
+![Modal Screenshot](screenshot-modal.png)
+
+---
+
+## 👩‍💻 Author
+**Naluwende Mercy**  
+Diploma in Information Technology  
+Uganda Christian University  
+
+---
+
+## 📂 Submission
+**Files:** `index.html`, `screenshot-fullpage.png`, `screenshot-modal.png`  
+**Repo:** [GitHub Repository Link Here](https://github.com/your-username/ucu-dip-webdev-2025-lab04-bootstrap)
